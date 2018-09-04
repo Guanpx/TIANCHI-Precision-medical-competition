@@ -1,0 +1,2 @@
+model_checkpoint_path: "Adam_0.01_2000_512_0.5_standard"
+all_model_checkpoint_paths: "Adam_0.01_2000_512_0.5_standard"
